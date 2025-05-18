@@ -1,7 +1,9 @@
 [project]
-name = "asyncio-tutorial"
+name = "python-tutorials"
+authors = [{ name = "Really Him", email = "hesreallyhim@proton.me" }]
+license = { text = "MIT" }
 version = "0.1.0"
-description = "Add your description here"
+description = "A set of notebooks to learn you some python."
 readme = "README.md"
-requires-python = ">=3.10.16"
+requires-python = ">=3.10"
 dependencies = []
